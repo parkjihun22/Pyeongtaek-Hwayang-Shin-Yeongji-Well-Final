@@ -1,196 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>평택화양 신영지웰 임대</title>
+    <title>평택화양 신영지웰</title>
     <link>https://delidilly.co.kr/</link>
-    <description>힐스테이트도안리버파크임대ㅣ☎️(대표)1533-8848ㅣ힐스테이트도안리버파크ㅣ견본주택ㅣ모델하우스ㅣ위치ㅣ청약ㅣ분양ㅣ분양가ㅣ공급정보ㅣ잔여세대문의ㅣ고객센터ㅣ방문예약</description>
+    <description>평택화양 신영지웰ㅣ☎️(대표)1533-8848ㅣ모델하우스ㅣ위치ㅣ청약ㅣ분양ㅣ분양가ㅣ공급정보ㅣ고객센터ㅣ방문예약</description>
     <language>ko-KR</language>
 
-    <!-- 이 피드 자신의 절대 URL을 정확히 명시 -->
+    <!-- RSS 자체 링크 -->
     <atom:link href="https://delidilly.co.kr/rss.xml" rel="self" type="application/rss+xml"/>
 
+    <!-- 브랜드소개 -->
     <item>
-      <title>모바일상담예약</title>
-      <link>https://delidilly.co.kr/Promotion/Customer</link>
-      <guid isPermaLink="true">https://delidilly.co.kr/Promotion/Customer</guid>
-      <description><![CDATA[대전 도안신도시 핵심 입지의 ‘평택화양 신영지웰’. 분양안내, 입지, 단지, 세대, 인테리어, 언론보도, 상담예약 정보를 제공합니다. 트램(도시철도 2호선·예정)과 유성IC·현충원IC(예정) 등 광역 교통망으로 미래가치 기대.]]></description>
-      <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
-    </item>
-
-    <item>
-      <title>브랜드소개</title>
+      <title>브랜드 소개</title>
       <link>https://delidilly.co.kr/Brand/intro</link>
       <guid isPermaLink="true">https://delidilly.co.kr/Brand/intro</guid>
-      <description><![CDATA[힐스테이트의 브랜드 가치와 디자인 철학, 프리미엄 라이프스타일을 소개합니다]]></description>
-      <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
+      <description><![CDATA[브랜드 철학과 가치를 담은 평택화양 신영지웰. 프리미엄 주거문화와 브랜드 스토리를 소개합니다.]]></description>
+      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
     </item>
-
     <item>
-      <title>홍보영상</title>
+      <title>홍보 영상</title>
       <link>https://delidilly.co.kr/Brand/video</link>
       <guid isPermaLink="true">https://delidilly.co.kr/Brand/video</guid>
-      <description><![CDATA[평택화양 신영지웰의 입지, 교통 호재, 생활 인프라를 영상으로 소개합니다. 브랜드 철학과 단지의 가치를 한눈에 확인하세요.]]></description>
-      <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
+      <description><![CDATA[평택화양 신영지웰의 입지, 설계, 커뮤니티, 생활 인프라를 영상으로 확인하세요.]]></description>
+      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
     </item>
 
+    <!-- 사업개요 -->
     <item>
       <title>사업안내</title>
       <link>https://delidilly.co.kr/BusinessGuide/intro</link>
       <guid isPermaLink="true">https://delidilly.co.kr/BusinessGuide/intro</guid>
-      <description><![CDATA[대전 유성구 도안신도시 일원. 브랜드타운 조성으로 주거가치 극대화. 트램(2호선·예정) 및 광역 교통망과 풍부한 생활·자연 인프라를 갖춘 사업개요를 안내합니다.]]></description>
-      <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
+      <description><![CDATA[대전 도안신도시 중심 입지. 평택화양 신영지웰의 사업 개요와 세대 구성, 교통·생활 인프라를 안내합니다.]]></description>
+      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
     </item>
-
     <item>
       <title>분양일정</title>
       <link>https://delidilly.co.kr/BusinessGuide/plan</link>
       <guid isPermaLink="true">https://delidilly.co.kr/BusinessGuide/plan</guid>
-      <description><![CDATA[모델하우스 오픈·청약 접수·당첨자 발표·계약 등 분양 일정을 한눈에 확인하세요.]]></description>
-      <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
+      <description><![CDATA[청약 접수·모델하우스 오픈·당첨자 발표·계약 등 분양일정을 확인하세요.]]></description>
+      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
     </item>
 
+    <!-- 분양안내 -->
     <item>
-      <title>청약방법안내</title>
-      <link>https://delidilly.co.kr/SalesInfo/SubscriptionGuide</link>
-      <guid isPermaLink="true">https://delidilly.co.kr/SalesInfo/SubscriptionGuide</guid>
-      <description><![CDATA[온라인 청약 절차와 유의사항, 자주 묻는 질문을 정리했습니다.]]></description>
-      <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
-    </item>
-
-    <item>
-      <title>청약안내문</title>
+      <title>공급안내</title>
       <link>https://delidilly.co.kr/SalesInfo/guide</link>
       <guid isPermaLink="true">https://delidilly.co.kr/SalesInfo/guide</guid>
-      <description><![CDATA[청약 자격·방법·필요서류와 당첨자 제출서류 일정을 상세 안내합니다.]]></description>
-      <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
+      <description><![CDATA[세대수·면적·공급조건 등 분양 공급 정보를 상세히 안내합니다.]]></description>
+      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
     </item>
-
     <item>
       <title>모집공고안내</title>
       <link>https://delidilly.co.kr/SalesInfo/announcement</link>
       <guid isPermaLink="true">https://delidilly.co.kr/SalesInfo/announcement</guid>
-      <description><![CDATA[공급 규모·금액·자격요건·계약 일정 등 공식 모집공고 정보를 제공합니다.]]></description>
-      <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
+      <description><![CDATA[공급규모, 자격요건, 청약 일정 등 공식 모집공고 정보를 제공합니다.]]></description>
+      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
     </item>
 
+    <!-- 입지환경 -->
     <item>
-      <title>인지세납부안내</title>
-      <link>https://delidilly.co.kr/SalesInfo/stampTax</link>
-      <guid isPermaLink="true">https://delidilly.co.kr/SalesInfo/stampTax</guid>
-      <description><![CDATA[계약 시 인지세 납부 기준과 금액, 준비 절차를 간단히 안내합니다.]]></description>
-      <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
-    </item>
-
-    <item>
-      <title>입지환경</title>
+      <title>입지안내</title>
       <link>https://delidilly.co.kr/LocationEnvironment/intro</link>
       <guid isPermaLink="true">https://delidilly.co.kr/LocationEnvironment/intro</guid>
-      <description><![CDATA[도안신도시 핵심 입지. 트램(2호선·예정)과 유성IC·현충원IC(예정) 등 광역 교통망, 충남대학교병원·유성선병원 등 의료 인프라, 갑천·유림공원 등 자연환경을 갖췄습니다.]]></description>
-      <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
+      <description><![CDATA[도안신도시 중심 입지, 교통망과 생활 인프라, 교육·자연환경을 갖춘 입지환경을 소개합니다.]]></description>
+      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
     </item>
-
     <item>
       <title>프리미엄</title>
       <link>https://delidilly.co.kr/LocationEnvironment/primium</link>
       <guid isPermaLink="true">https://delidilly.co.kr/LocationEnvironment/primium</guid>
-      <description><![CDATA[교통·교육·의료·쇼핑 프리미엄 집약. 가천대 길병원·인천사랑병원 인접과 다양한 문화·상업시설로 원스톱 생활을 누립니다.]]></description>
-      <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
+      <description><![CDATA[교통·교육·의료·쇼핑·자연 프리미엄을 모두 누리는 평택화양 신영지웰의 생활 가치.]]></description>
+      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
     </item>
 
+    <!-- 단지안내 -->
     <item>
-      <title>단지배치도</title>
+      <title>단지 배치도</title>
       <link>https://delidilly.co.kr/ComplexGuide/intro</link>
       <guid isPermaLink="true">https://delidilly.co.kr/ComplexGuide/intro</guid>
-      <description><![CDATA[단지 배치·조경·동선 계획을 확인하고, 쾌적한 생활환경과 안전한 동선 설계를 살펴보세요.]]></description>
-      <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
+      <description><![CDATA[동별 배치, 조경, 커뮤니티 및 동선 설계를 확인하세요.]]></description>
+      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
     </item>
-
     <item>
-      <title>호수배치도</title>
+      <title>호수 배치도</title>
       <link>https://delidilly.co.kr/ComplexGuide/detailintro</link>
       <guid isPermaLink="true">https://delidilly.co.kr/ComplexGuide/detailintro</guid>
-      <description><![CDATA[동·호수 배치 정보를 제공합니다. 세대 선택과 채광·뷰 확인에 유용한 안내입니다.]]></description>
-      <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
+      <description><![CDATA[세대별 호수 배치, 전망과 채광·프라이버시를 고려한 설계를 확인하세요.]]></description>
+      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
     </item>
-
     <item>
       <title>커뮤니티</title>
       <link>https://delidilly.co.kr/ComplexGuide/community</link>
       <guid isPermaLink="true">https://delidilly.co.kr/ComplexGuide/community</guid>
-      <description><![CDATA[피트니스·GX룸·라운지 등 커뮤니티 시설 구성과 이용 안내를 확인하세요.]]></description>
-      <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
+      <description><![CDATA[피트니스, 독서실, 어린이집 등 생활 편의 커뮤니티 시설을 안내합니다.]]></description>
+      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
     </item>
 
-    <item>
-      <title>59A</title>
-      <link>https://delidilly.co.kr/FloorPlan/59A</link>
-      <guid isPermaLink="true">https://delidilly.co.kr/FloorPlan/59A</guid>
-      <description><![CDATA[59A 중소형 평형으로 실용성을 갖춘 평면 구성. 채광과 통풍을 고려한 설계로 실거주자에 적합합니다.]]></description>
-      <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
-    </item>
-
+    <!-- 세대안내 -->
     <item>
       <title>84A</title>
-      <link>https://delidilly.co.kr/FloorPlan/59B</link>
-      <guid isPermaLink="true">https://delidilly.co.kr/FloorPlan/59B</guid>
-      <description><![CDATA[84A 전용 타입 평면과 공간 활용 아이디어를 확인하세요.]]></description>
-      <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
+      <link>https://delidilly.co.kr/FloorPlan/59A</link>
+      <guid isPermaLink="true">https://delidilly.co.kr/FloorPlan/59A</guid>
+      <description><![CDATA[전용 84A 타입 평면과 공간 활용 아이디어를 소개합니다.]]></description>
+      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
     </item>
-
     <item>
       <title>84B</title>
+      <link>https://delidilly.co.kr/FloorPlan/59B</link>
+      <guid isPermaLink="true">https://delidilly.co.kr/FloorPlan/59B</guid>
+      <description><![CDATA[전용 84B 타입 평면과 공간 활용 아이디어를 소개합니다.]]></description>
+      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>84C</title>
       <link>https://delidilly.co.kr/FloorPlan/84A</link>
       <guid isPermaLink="true">https://delidilly.co.kr/FloorPlan/84A</guid>
-      <description><![CDATA[전용 84B 타입 평면과 공간 활용 아이디어를 확인하세요.]]></description>
-      <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
+      <description><![CDATA[전용 84C 타입 평면과 공간 활용 아이디어를 소개합니다.]]></description>
+      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
     </item>
-
-        <item>
-      <title>84C</title>
-      <link>https://delidilly.co.kr/FloorPlan/59B</link>
-      <guid isPermaLink="true">https://delidilly.co.kr/FloorPlan/84B</guid>
-      <description><![CDATA[전용 84C 타입 평면과 공간 활용 아이디어를 확인하세요.]]></description>
-      <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
-    </item>
-
-        <item>
+    <item>
       <title>84D</title>
-      <link>https://delidilly.co.kr/FloorPlan/114A</link>
-      <guid isPermaLink="true">https://delidilly.co.kr/FloorPlan/114A</guid>
-      <description><![CDATA[전용 84D 타입 평면과 공간 활용 아이디어를 확인하세요.]]></description>
-      <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
+      <link>https://delidilly.co.kr/FloorPlan/84B</link>
+      <guid isPermaLink="true">https://delidilly.co.kr/FloorPlan/84B</guid>
+      <description><![CDATA[전용 84D 타입 평면과 공간 활용 아이디어를 소개합니다.]]></description>
+      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
     </item>
-
     <item>
       <title>E-모델하우스</title>
       <link>https://delidilly.co.kr/FloorPlan/Emodel</link>
       <guid isPermaLink="true">https://delidilly.co.kr/FloorPlan/Emodel</guid>
-      <description><![CDATA[온라인으로 만나는 E-모델하우스. 방문 전 단지와 평면, 인테리어를 가상 체험할 수 있는 최신 시스템입니다.]]></description>
-      <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
+      <description><![CDATA[VR 투어와 세대별 평면도를 온라인에서 확인할 수 있는 E-모델하우스.]]></description>
+      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
     </item>
 
+    <!-- 인테리어 -->
     <item>
-      <title>인테리어</title>
+      <title>84A 인테리어</title>
       <link>https://delidilly.co.kr/Interior/59A</link>
       <guid isPermaLink="true">https://delidilly.co.kr/Interior/59A</guid>
-      <description><![CDATA[59A㎡ 인테리어 콘셉트와 마감·옵션 스타일을 확인하세요.]]></description>
-      <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
+      <description><![CDATA[84A 타입 인테리어 디자인과 마감재, 옵션 스타일을 확인하세요.]]></description>
+      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>84D 인테리어</title>
+      <link>https://delidilly.co.kr/Interior/84A</link>
+      <guid isPermaLink="true">https://delidilly.co.kr/Interior/84A</guid>
+      <description><![CDATA[84D 타입 인테리어 디자인과 마감재, 옵션 스타일을 확인하세요.]]></description>
+      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
     </item>
 
+    <!-- 홍보센터 -->
     <item>
       <title>언론보도</title>
-      <link>https://delidilly.co.kr/평택화양 신영지웰/press</link>
-      <guid isPermaLink="true">https://delidilly.co.kr/평택화양 신영지웰/press</guid>
-      <description><![CDATA[평택화양 신영지웰 언론보도 모음. 분양·입지·개발호재 등 최신 기사와 보도자료를 확인하세요.]]></description>
-      <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
+      <link>https://delidilly.co.kr/Promotion/Press</link>
+      <guid isPermaLink="true">https://delidilly.co.kr/Promotion/Press</guid>
+      <description><![CDATA[평택화양 신영지웰 관련 보도자료와 언론 기사를 모았습니다.]]></description>
+      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
     </item>
-
     <item>
       <title>관심고객등록</title>
       <link>https://delidilly.co.kr/Promotion/Customer</link>
       <guid isPermaLink="true">https://delidilly.co.kr/Promotion/Customer</guid>
-      <description><![CDATA[관심고객 등록 시 청약정보, 모델하우스 오픈 정보, 분양 일정 등을 우선 제공해드리는 서비스입니다.]]></description>
-      <pubDate>Sun, 15 Jun 2025 14:00:00 +0900</pubDate>
+      <description><![CDATA[관심고객 등록 시 모델하우스 일정과 청약 정보를 우선 안내해드립니다.]]></description>
+      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
     </item>
 
   </channel>
