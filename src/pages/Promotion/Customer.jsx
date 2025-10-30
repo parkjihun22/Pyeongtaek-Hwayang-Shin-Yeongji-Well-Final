@@ -58,7 +58,7 @@ export default function Customer() {
   };
 
   const promoMenu = [
-    { key: "newsletter", title: "언론보도", url: "/Promotion/Press" },
+    // { key: "newsletter", title: "언론보도", url: "/Promotion/Press" },
     { key: "interest", title: "방문예약등록", url: "/Promotion/Customer" },
   ];
 
