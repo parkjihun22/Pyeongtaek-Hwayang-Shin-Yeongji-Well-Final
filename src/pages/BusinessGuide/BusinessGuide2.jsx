@@ -58,7 +58,7 @@ const BusinessGuide2 = () => {
                 name="description"
                 content="평택화양 신영지웰 분양일정을 한눈에 확인하세요. 모델하우스 오픈, 특별공급·1순위 청약, 당첨자 발표, 계약일정 및 입주예정일까지 상세히 안내합니다."
             />
-            <link rel="canonical" href="https://delidilly.co.kr/BusinessGuide/plan" />
+            <link rel="canonical" href="https://www.verficktescheisse.com/BusinessGuide/plan" />
             <meta name="robots" content="index,follow" />
             </Helmet>
 

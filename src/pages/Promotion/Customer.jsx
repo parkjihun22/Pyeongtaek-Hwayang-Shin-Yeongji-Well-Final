@@ -73,7 +73,7 @@ export default function Customer() {
             content="평택 화양지구 신영지웰 관심고객 등록 시 모델하우스 방문 예약, 위치 및 현장 정보를 사전에 안내받으실 수 있습니다."
           />
           <meta name="robots" content="index,follow" />
-          <link rel="canonical" href="https://delidilly.co.kr/Promotion/Customer" />
+          <link rel="canonical" href="https://www.verficktescheisse.com/Promotion/Customer" />
 
           {/* Open Graph */}
           <meta property="og:type" content="website" />
@@ -83,8 +83,8 @@ export default function Customer() {
             property="og:description"
             content="평택 화양지구 신영지웰 관심고객 등록 시 모델하우스 방문 예약, 위치 및 현장 정보를 사전에 안내받으실 수 있습니다."
           />
-          <meta property="og:url" content="https://delidilly.co.kr/Promotion/Customer" />
-          <meta property="og:image" content="https://delidilly.co.kr/img/og/customer.jpg" />
+          <meta property="og:url" content="https://www.verficktescheisse.com/Promotion/Customer" />
+          <meta property="og:image" content="https://www.verficktescheisse.com/img/og/customer.jpg" />
           <meta property="og:image:width" content="1200" />
           <meta property="og:image:height" content="630" />
 
@@ -95,8 +95,8 @@ export default function Customer() {
             name="twitter:description"
             content="평택 화양지구 신영지웰 관심고객 등록 시 모델하우스 방문 예약, 위치 및 현장 정보를 사전에 안내받으실 수 있습니다."
           />
-          <meta name="twitter:image" content="https://delidilly.co.kr/img/og/customer.jpg" />
-          <meta name="twitter:url" content="https://delidilly.co.kr/Promotion/Customer" />
+          <meta name="twitter:image" content="https://www.verficktescheisse.com/img/og/customer.jpg" />
+          <meta name="twitter:url" content="https://www.verficktescheisse.com/Promotion/Customer" />
 
           {/* JSON-LD (대표 이미지/브레드크럼 포함) */}
           <script type="application/ld+json">
@@ -104,20 +104,20 @@ export default function Customer() {
               "@context": "https://schema.org",
               "@type": "WebPage",
               "name": "평택화양 신영지웰 - 관심고객등록",
-              "url": "https://delidilly.co.kr/Promotion/Customer",
+              "url": "https://www.verficktescheisse.com/Promotion/Customer",
               "description":
                 "평택 화양지구 신영지웰 관심고객 등록 시 모델하우스 방문 예약, 위치 및 현장 정보를 사전에 안내받으실 수 있습니다.",
               "primaryImageOfPage": {
                 "@type": "ImageObject",
-                "contentUrl": "https://delidilly.co.kr/img/og/customer.jpg",
+                "contentUrl": "https://www.verficktescheisse.com/img/og/customer.jpg",
                 "width": 1200,
                 "height": 630
               },
               "breadcrumb": {
                 "@type": "BreadcrumbList",
                 "itemListElement": [
-                  { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://delidilly.co.kr/" },
-                  { "@type": "ListItem", "position": 2, "name": "관심고객등록", "item": "https://delidilly.co.kr/Promotion/Customer" }
+                  { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.verficktescheisse.com/" },
+                  { "@type": "ListItem", "position": 2, "name": "관심고객등록", "item": "https://www.verficktescheisse.com/Promotion/Customer" }
                 ]
               }
             })}

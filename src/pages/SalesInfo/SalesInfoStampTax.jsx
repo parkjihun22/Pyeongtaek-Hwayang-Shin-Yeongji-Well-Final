@@ -58,7 +58,7 @@ const ComplexGuide1 = () => {
             name="description"
             content="평택 화양지구 신영지웰 분양계약 시 필요한 인지세 납부 기준과 절차, 비용 및 유의사항을 한눈에 확인하세요."
           />
-          <link rel="canonical" href="https://delidilly.co.kr/SalesInfo/stampTax" />
+          <link rel="canonical" href="https://www.verficktescheisse.com/SalesInfo/stampTax" />
           <meta name="robots" content="index,follow" />
         </Helmet>
 

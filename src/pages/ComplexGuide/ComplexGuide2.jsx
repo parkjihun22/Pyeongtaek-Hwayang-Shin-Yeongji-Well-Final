@@ -57,7 +57,7 @@ const ComplexGuide1 = () => {
           name="description"
           content="평택화양 신영지웰 호수배치도를 통해 세대별 위치, 전망, 일조 방향, 프라이버시 설계를 확인하세요. 고객 맞춤형 동·호수 선택에 도움을 드립니다."
         />
-        <link rel="canonical" href="https://delidilly.co.kr/ComplexGuide/detailintro" />
+        <link rel="canonical" href="https://www.verficktescheisse.com/ComplexGuide/detailintro" />
         <meta name="robots" content="index,follow" />
 
         {/* Open Graph */}
@@ -68,8 +68,8 @@ const ComplexGuide1 = () => {
           property="og:description"
           content="평택화양 신영지웰 호수배치도: 각 세대의 위치와 전망, 일조, 프라이버시까지 고려한 동·호수 배치 정보를 제공합니다."
         />
-        <meta property="og:url" content="https://delidilly.co.kr/ComplexGuide/detailintro" />
-        <meta property="og:image" content="https://delidilly.co.kr/img/og/complex.jpg" />
+        <meta property="og:url" content="https://www.verficktescheisse.com/ComplexGuide/detailintro" />
+        <meta property="og:image" content="https://www.verficktescheisse.com/img/og/complex.jpg" />
       </Helmet>
 
       <Header isChanged={isScroll} />

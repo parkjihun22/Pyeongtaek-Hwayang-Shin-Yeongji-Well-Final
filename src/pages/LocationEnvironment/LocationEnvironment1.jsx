@@ -88,7 +88,7 @@ const LocationEnvironment1 = () => {
           content="평택 화양지구 최중심 입지, 평택화양 신영지웰의 입지환경을 확인하세요. 서해선 안중역(개통)·서부내륙/서해안고속도로·국도38호선, 중심상업지구·학교(예정)·공공시설 등 원스톱 생활 인프라."
         />
         <meta name="robots" content="index,follow" />
-        <link rel="canonical" href="https://delidilly.co.kr/LocationEnvironment/intro" />
+        <link rel="canonical" href="https://www.verficktescheisse.com/LocationEnvironment/intro" />
 
         {/* Open Graph */}
         <meta property="og:type" content="website" />
@@ -98,8 +98,8 @@ const LocationEnvironment1 = () => {
           property="og:description"
           content="서해선 안중역(개통)·광역도로망과 중심상업지구, 학교(예정)·공공시설을 갖춘 평택화양 신영지웰의 핵심 입지 정보를 한눈에."
         />
-        <meta property="og:url" content="https://delidilly.co.kr/LocationEnvironment/intro" />
-        <meta property="og:image" content="https://delidilly.co.kr/img/og/location.jpg" />
+        <meta property="og:url" content="https://www.verficktescheisse.com/LocationEnvironment/intro" />
+        <meta property="og:image" content="https://www.verficktescheisse.com/img/og/location.jpg" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
 
@@ -110,8 +110,8 @@ const LocationEnvironment1 = () => {
           name="twitter:description"
           content="평택 화양지구 최중심 입지: 서해선 안중역(개통), 서부내륙/서해안고속도로, 중심상업지구·학교(예정) 등 생활 인프라를 누리는 입지환경."
         />
-        <meta name="twitter:image" content="https://delidilly.co.kr/img/og/location.jpg" />
-        <meta name="twitter:url" content="https://delidilly.co.kr/LocationEnvironment/intro" />
+        <meta name="twitter:image" content="https://www.verficktescheisse.com/img/og/location.jpg" />
+        <meta name="twitter:url" content="https://www.verficktescheisse.com/LocationEnvironment/intro" />
 
         {/* JSON-LD (대표 이미지/브레드크럼 포함) */}
         <script type="application/ld+json">
@@ -119,20 +119,20 @@ const LocationEnvironment1 = () => {
             "@context": "https://schema.org",
             "@type": "WebPage",
             name: "평택화양 신영지웰 - 입지환경",
-            url: "https://delidilly.co.kr/LocationEnvironment/intro",
+            url: "https://www.verficktescheisse.com/LocationEnvironment/intro",
             description:
               "평택 화양지구 최중심 입지, 서해선 안중역(개통)·광역도로망·중심상업지구·학교(예정) 등 원스톱 생활 인프라를 갖춘 평택화양 신영지웰 입지환경.",
             primaryImageOfPage: {
               "@type": "ImageObject",
-              contentUrl: "https://delidilly.co.kr/img/og/location.jpg",
+              contentUrl: "https://www.verficktescheisse.com/img/og/location.jpg",
               width: 1200,
               height: 630,
             },
             breadcrumb: {
               "@type": "BreadcrumbList",
               itemListElement: [
-                { "@type": "ListItem", position: 1, name: "홈", item: "https://delidilly.co.kr/" },
-                { "@type": "ListItem", position: 2, name: "입지환경", item: "https://delidilly.co.kr/LocationEnvironment/intro" },
+                { "@type": "ListItem", position: 1, name: "홈", item: "https://www.verficktescheisse.com/" },
+                { "@type": "ListItem", position: 2, name: "입지환경", item: "https://www.verficktescheisse.com/LocationEnvironment/intro" },
               ],
             },
           })}

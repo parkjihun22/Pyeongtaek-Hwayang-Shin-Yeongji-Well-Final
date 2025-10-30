@@ -11,7 +11,7 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 
 // FAMILY SITE 목록 예시
 const partnerSites = [
-  { name: "평택화양 신영지웰", url: "https://delidilly.co.kr/" },
+  { name: "평택화양 신영지웰", url: "https://www.verficktescheisse.com/" },
 ];
 
 const Footer = () => {

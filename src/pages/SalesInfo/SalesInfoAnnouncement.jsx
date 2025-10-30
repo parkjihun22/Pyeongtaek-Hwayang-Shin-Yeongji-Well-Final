@@ -75,7 +75,7 @@ const ComplexGuide1 = () => {
             name="description"
             content="평택 화양지구 신영지웰 모집공고를 한눈에 확인하세요. 공급세대수·공급면적·분양가, 청약일정·자격, 당첨자 발표·계약 및 유의사항을 안내합니다."
           />
-          <link rel="canonical" href="https://delidilly.co.kr/SalesInfo/announcement" />
+          <link rel="canonical" href="https://www.verficktescheisse.com/SalesInfo/announcement" />
           <meta name="robots" content="index,follow" />
         </Helmet>
 

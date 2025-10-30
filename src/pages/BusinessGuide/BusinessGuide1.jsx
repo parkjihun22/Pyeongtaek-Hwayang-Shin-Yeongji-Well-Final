@@ -65,7 +65,7 @@ const BusinessGuide1 = () => {
 					content="경기도 평택시 화양지구 9-1블록, 전용 84㎡ 단일 999세대 대단지. 지하2~지상29층 10개 동, 2027년 4월 입주 예정. 서해선 안중역(개통)과 광역도로망이 더한 핵심 입지의 사업 개요와 입지를 확인하세요."
 					/>
 					<meta name="robots" content="index,follow" />
-					<link rel="canonical" href="https://delidilly.co.kr/BusinessGuide/intro" />
+					<link rel="canonical" href="https://www.verficktescheisse.com/BusinessGuide/intro" />
 
 					{/* Open Graph */}
 					<meta property="og:type" content="website" />
@@ -75,8 +75,8 @@ const BusinessGuide1 = () => {
 					property="og:description"
 					content="평택 화양지구 9-1블록, 전용 84㎡ 단일 999세대. 남향 위주 배치와 특화 커뮤니티, 서해선 안중역(개통) 프리미엄까지 사업 핵심 정보를 한눈에."
 					/>
-					<meta property="og:url" content="https://delidilly.co.kr/BusinessGuide/intro" />
-					<meta property="og:image" content="https://delidilly.co.kr/img/og/business.jpg" />
+					<meta property="og:url" content="https://www.verficktescheisse.com/BusinessGuide/intro" />
+					<meta property="og:image" content="https://www.verficktescheisse.com/img/og/business.jpg" />
 					<meta property="og:image:width" content="1200" />
 					<meta property="og:image:height" content="630" />
 
@@ -87,8 +87,8 @@ const BusinessGuide1 = () => {
 					name="twitter:description"
 					content="전용 84㎡ 단일 999세대, 10개 동 대단지. 화양지구 최중심 입지와 광역 교통 프리미엄을 갖춘 평택화양 신영지웰의 사업 개요."
 					/>
-					<meta name="twitter:image" content="https://delidilly.co.kr/img/og/business.jpg" />
-					<meta name="twitter:url" content="https://delidilly.co.kr/BusinessGuide/intro" />
+					<meta name="twitter:image" content="https://www.verficktescheisse.com/img/og/business.jpg" />
+					<meta name="twitter:url" content="https://www.verficktescheisse.com/BusinessGuide/intro" />
 
 					{/* JSON-LD (대표 이미지/브레드크럼 포함) */}
 					<script type="application/ld+json">
@@ -96,20 +96,20 @@ const BusinessGuide1 = () => {
 						"@context": "https://schema.org",
 						"@type": "WebPage",
 						name: "평택화양 신영지웰 - 사업안내",
-						url: "https://delidilly.co.kr/BusinessGuide/intro",
+						url: "https://www.verficktescheisse.com/BusinessGuide/intro",
 						description:
 						"경기도 평택시 화양지구 9-1블록, 전용 84㎡ 단일 999세대(지하2~지상29층 10개 동). 2027년 4월 입주 예정. 서해선 안중역(개통) 등 교통·생활 인프라를 갖춘 사업 개요와 입지 정보.",
 						primaryImageOfPage: {
 						"@type": "ImageObject",
-						contentUrl: "https://delidilly.co.kr/img/og/business.jpg",
+						contentUrl: "https://www.verficktescheisse.com/img/og/business.jpg",
 						width: 1200,
 						height: 630
 						},
 						breadcrumb: {
 						"@type": "BreadcrumbList",
 						itemListElement: [
-							{ "@type": "ListItem", position: 1, name: "홈", item: "https://delidilly.co.kr/" },
-							{ "@type": "ListItem", position: 2, name: "사업안내", item: "https://delidilly.co.kr/BusinessGuide/intro" }
+							{ "@type": "ListItem", position: 1, name: "홈", item: "https://www.verficktescheisse.com/" },
+							{ "@type": "ListItem", position: 2, name: "사업안내", item: "https://www.verficktescheisse.com/BusinessGuide/intro" }
 						]
 						}
 					})}

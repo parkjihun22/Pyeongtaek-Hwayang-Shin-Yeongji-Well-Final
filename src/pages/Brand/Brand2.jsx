@@ -50,7 +50,7 @@ const Brand2 = () => {
 				name="description"
 				content="평택화양 신영지웰 홍보영상을 통해 999세대 대단지 설계, 특화 커뮤니티 시설, 쾌적한 조경과 교통·생활 인프라 프리미엄을 생생하게 확인하세요."
 				/>
-				<link rel="canonical" href="https://delidilly.co.kr/Brand/video" />
+				<link rel="canonical" href="https://www.verficktescheisse.com/Brand/video" />
 				<meta name="robots" content="index,follow" />
 
 				{/* Open Graph */}
@@ -61,8 +61,8 @@ const Brand2 = () => {
 				property="og:description"
 				content="평택화양 신영지웰 홍보영상: 전용 84㎡ 단일 구성, 남향 위주 특화 설계, 다양한 커뮤니티와 화양지구 최중심 입지를 영상으로 만나보세요."
 				/>
-				<meta property="og:url" content="https://delidilly.co.kr/Brand/video" />
-				<meta property="og:image" content="https://delidilly.co.kr/images/og/main.jpg" />
+				<meta property="og:url" content="https://www.verficktescheisse.com/Brand/video" />
+				<meta property="og:image" content="https://www.verficktescheisse.com/images/og/main.jpg" />
 
 				{/* Twitter */}
 				<meta name="twitter:card" content="summary_large_image" />
@@ -71,7 +71,7 @@ const Brand2 = () => {
 				name="twitter:description"
 				content="평택화양 신영지웰 홍보영상: 대단지 설계, 특화 커뮤니티, 녹지와 인프라 프리미엄을 영상으로 확인하세요."
 				/>
-				<meta name="twitter:image" content="https://delidilly.co.kr/images/og/main.jpg" />
+				<meta name="twitter:image" content="https://www.verficktescheisse.com/images/og/main.jpg" />
 			</Helmet>
 
 			

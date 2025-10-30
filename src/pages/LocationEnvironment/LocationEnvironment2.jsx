@@ -51,7 +51,7 @@ const LocationEnvironment1 = () => {
           name="description"
           content="대전 도안신도시 평택화양 신영지웰 프리미엄을 확인하세요. 도시철도 2호선(트램 예정)·서남부종합스포츠타운 개발·신설 초·중학교(초품아)·충청권 최대 5,000세대 브랜드타운의 가치를 안내합니다."
         />
-        <link rel="canonical" href="https://delidilly.co.kr/LocationEnvironment/primium" />
+        <link rel="canonical" href="https://www.verficktescheisse.com/LocationEnvironment/primium" />
         <meta name="robots" content="index,follow" />
       </Helmet>
 

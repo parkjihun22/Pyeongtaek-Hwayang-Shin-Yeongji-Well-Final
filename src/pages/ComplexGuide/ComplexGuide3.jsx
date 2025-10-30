@@ -56,7 +56,7 @@ const ComplexGuide3 = () => {
           name="description"
           content="평택화양 신영지웰 커뮤니티 시설을 소개합니다. 피트니스센터, 실내골프연습장, GX룸, 독서실, 어린이집, 게스트하우스, 사우나 등 입주민의 생활 품격을 높이는 다양한 편의시설을 만나보세요."
         />
-        <link rel="canonical" href="https://delidilly.co.kr/ComplexGuide/community" />
+        <link rel="canonical" href="https://www.verficktescheisse.com/ComplexGuide/community" />
         <meta name="robots" content="index,follow" />
 
         {/* Open Graph */}
@@ -67,8 +67,8 @@ const ComplexGuide3 = () => {
           property="og:description"
           content="평택화양 신영지웰 커뮤니티 시설: 피트니스, 실내골프, 독서실, 어린이집, 게스트하우스, 사우나 등 입주민을 위한 다양한 생활 편의시설."
         />
-        <meta property="og:url" content="https://delidilly.co.kr/ComplexGuide/community" />
-        <meta property="og:image" content="https://delidilly.co.kr/img/og/complex.jpg" />
+        <meta property="og:url" content="https://www.verficktescheisse.com/ComplexGuide/community" />
+        <meta property="og:image" content="https://www.verficktescheisse.com/img/og/complex.jpg" />
       </Helmet>
 
       <Header isChanged={isScroll} />

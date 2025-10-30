@@ -58,7 +58,7 @@ const ComplexGuide1 = () => {
             name="description"
             content="평택 화양지구 신영지웰 청약방법을 확인하세요. 청약 자격, 신청 절차, 준비서류 및 유의사항을 상세히 안내합니다."
           />
-          <link rel="canonical" href="https://delidilly.co.kr/SalesInfo/SubscriptionGuide" />
+          <link rel="canonical" href="https://www.verficktescheisse.com/SalesInfo/SubscriptionGuide" />
           <meta name="robots" content="index,follow" />
         </Helmet>
 

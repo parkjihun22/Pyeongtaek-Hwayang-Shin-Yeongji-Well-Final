@@ -57,7 +57,7 @@ const ComplexGuide1 = () => {
             name="description"
             content="평택 화양지구 신영지웰 청약안내를 한눈에 확인하세요. 특별공급, 1·2순위 청약 일정, 자격요건, 필요서류 및 절차를 상세히 안내합니다."
           />
-          <link rel="canonical" href="https://delidilly.co.kr/SalesInfo/SubscriptionGuide" />
+          <link rel="canonical" href="https://www.verficktescheisse.com/SalesInfo/SubscriptionGuide" />
           <meta name="robots" content="index,follow" />
         </Helmet>
 

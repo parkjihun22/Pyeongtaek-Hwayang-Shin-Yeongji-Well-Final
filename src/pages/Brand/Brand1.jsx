@@ -53,7 +53,7 @@ const Brand1 = () => {
                     name="description"
                     content="신영지웰 브랜드의 철학과 가치. 탄탄한 디벨로퍼 역량과 시공 신뢰, 프리미엄 주거문화로 입주민의 생활 품격을 높입니다."
                 />
-                <link rel="canonical" href="https://delidilly.co.kr/Brand/intro" />
+                <link rel="canonical" href="https://www.verficktescheisse.com/Brand/intro" />
                 <meta name="robots" content="index,follow" />
 
                 {/* Open Graph */}
@@ -64,8 +64,8 @@ const Brand1 = () => {
                     property="og:description"
                     content="신영지웰 브랜드 소개: 고객 중심 철학과 프리미엄 품질 기준, 검증된 시공 신뢰로 완성되는 평택 화양지구의 새로운 주거 기준."
                 />
-                <meta property="og:url" content="https://delidilly.co.kr/Brand/intro" />
-                <meta property="og:image" content="https://delidilly.co.kr/images/og/main.jpg" />
+                <meta property="og:url" content="https://www.verficktescheisse.com/Brand/intro" />
+                <meta property="og:image" content="https://www.verficktescheisse.com/images/og/main.jpg" />
                 </Helmet>
 
                 <Header isChanged={isScroll} />
