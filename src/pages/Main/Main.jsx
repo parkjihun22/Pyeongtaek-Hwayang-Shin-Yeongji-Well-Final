@@ -737,7 +737,7 @@ const Main = () => {
               </Link>
             </div>
           </div> */}
-          {/* <MobileNewsSection newsList={newsLists} /> */}
+          <MobileNewsSection newsList={newsLists} />
 
             {/* 모바일 방문예약 섹션 */}
             <div className={styles.mobileVisitContainer}>
