@@ -120,7 +120,7 @@ export default function Header() {
             />
           )}
           <Link to="/">
-            <img src={mainlogowhite} alt="Logo" className={styles.logo} />
+            <img src={mainlogowhite} alt="평택화양 신영지웰 로고" className={styles.logo} />
           </Link>
           <a href="tel:1533-8848">
             <IoCall className={styles.icon} size={25} color="#2a1e4f" />
@@ -156,11 +156,11 @@ export default function Header() {
       onMouseLeave={handleMouseLeave}
     >
       <div className={styles.gifBanner}>
-        <img src={bannerGif} alt="Uptool Banner" />
+        <img src={bannerGif} alt="평택화양 신영지웰 상담 안내 배너" />
       </div>
       <header className={styles.headerInitial}>
         <Link to="/">
-          <img src={logoImage} alt="Logo" className={styles.logo} />
+          <img src={logoImage} alt="평택화양 신영지웰 로고" className={styles.logo} />
         </Link>
 
         <div className={styles.itemBox}>

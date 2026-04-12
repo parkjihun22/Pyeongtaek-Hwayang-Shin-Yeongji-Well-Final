@@ -288,13 +288,13 @@ const Main = () => {
               <div className={styles.textBox}>
                 <div className={styles.text1}>Location</div>
                 <div className={styles.text2}>
-                  평택화양 신영지웰 POINT
+                  평택화양 신영지웰 중요 POINT
                 </div>
                 <div className={styles.text3}>
-              - 서해선 안중역(개통) 인접, 서부내륙·서해안고속도로·국도38호선으로 뛰어난 광역 교통망<br />
-              - 종합병원 부지(예정) 및 인근 전문 의료 네트워크로 안심 의료 인프라<br />
-              - 근린공원·녹지계획과 평택호 관광단지(추진) 등 쾌적한 자연환경<br />
-              - 중심상업지구 도보권, 홈플러스·대형마트·관공서 등 생활·문화 인프라 밀집
+                - 서해선 안중역(개통) 인접, 국도38호선으로 광역교통 프리미엄<br />
+                - 종합병원 부지(예정) 및 중심상권 바로 옆 슬세권 프리미엄<br />
+                - 근린공원·녹지계획과 평택호 관광단지(추진) 등 쾌적한 자연환경<br />
+                - 중심상업지구 도보권, 관공서 등 풍부한 생활·문화 인프라 밀집
                 </div>
 
                 <div className={styles.text4}>
@@ -597,9 +597,11 @@ const Main = () => {
             <div className={styles.overlay}></div>
             <div className={styles.mainImageTextBox1}>
             <div className={styles.mainImageTextSub1}>
-              화양지구의 새로운 시작, 높은 미래가치<br/>
+              화양지구의 높은 미래가치<br/>
               신영지웰이 제시하는 프리미엄 주거<br />
-              <span className={styles.greyText1}>브랜드 프리미엄</span>
+              <span className={styles.greyText1}>중심상권옆</span>
+              <br />
+              <span className={styles.greyText1}>슬세권 프리미엄</span>
               <br />
             </div>
             <div className={styles.mainImageTitleBox1}>
@@ -613,13 +615,13 @@ const Main = () => {
           <div className={styles.container1}>
             <div className={styles.text1}>Location</div>
             <div className={styles.text2}>
-            평택화양 신영지웰 POINT
+            평택화양 신영지웰 중요 POINT
           </div>
           <div className={styles.text3}>
-          - 서해선 안중역(개통) 인접, 서부내륙·서해안고속도로·국도38호선으로 광역 교통망<br />
-          - 종합병원 부지(예정) 및 인근 전문 의료기관으로 안심 의료 인프라<br />
+          - 서해선 안중역(개통) 인접, 국도38호선으로 광역교통 프리미엄<br />
+          - 종합병원 부지(예정) 및 중심상권 바로 옆 슬세권 프리미엄<br />
           - 근린공원·녹지계획과 평택호 관광단지(추진) 등 쾌적한 자연환경<br />
-          - 중심상업지구 도보권, 홈플러스·대형마트·관공서 등 풍부한 생활·문화 인프라 밀집
+          - 중심상업지구 도보권, 관공서 등 풍부한 생활·문화 인프라 밀집
             </div>
 
             <div className={styles.text4}>
@@ -702,7 +704,7 @@ const Main = () => {
             />
           </div>
 
-          {/* <UnitInfoSection /> */}
+          <UnitInfoSection />
 
           {/* <div className={styles.container4}>
             <div className={styles.text1}>UNITPLAN</div>
