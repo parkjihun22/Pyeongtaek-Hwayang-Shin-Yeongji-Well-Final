@@ -62,10 +62,10 @@ const Interior2 = () => {
       <MenuBar contents={menuContents} />
         {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
         <h1 className={styles.screenReaderOnly}>
-          평택화양 신영지웰 - 84A 인테리어
+          평택화양 신영지웰 - 인테리어2
         </h1>
         <p className={styles.screenReaderOnly}>
-          평택화양 신영지웰 84A 타입 인테리어 페이지에서는 세련된 공간 디자인과
+          평택화양 신영지웰 인테리어 페이지에서는 세련된 공간 디자인과
           고급 마감재, 효율적인 수납 설계를 소개합니다. 거실·주방·침실 등
           각 공간별 특화 요소를 확인하고, 쾌적하면서도 품격 있는 주거 공간을
           경험해보세요.
@@ -81,7 +81,7 @@ const Interior2 = () => {
       <img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="평택화양 신영지웰 84A 인테리어 안내 이미지"
+				alt="평택화양 신영지웰 인테리어 안내 이미지2"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

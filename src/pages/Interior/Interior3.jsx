@@ -70,7 +70,7 @@ const Interior3 = () => {
 			{/*<img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="평택화양 신영지웰 119타입 인테리어안내 image"
+				alt="평택화양 신영지웰 인테리어 안내 이미지3"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>*/}
 
