@@ -20,6 +20,7 @@ import InterestPopup from "../../components/InterestPopup/InterestPopup"; // 새
 import UnitInfoSection from "../../components/UnitInfoSection/UnitInfoSection";
 import MobileNewsSection from "../../components/MobileNewsSection/MobileNewsSection";
 import newsLists from "../../NewsList"
+import FAQSection from "../../components/FAQSection/FAQSection"
 
 import mainImage from "../../assets/Main/Main1.jpg";
 import section1_Image1 from "../../assets/Main/section1-img1.jpg";
@@ -437,6 +438,7 @@ const Main = () => {
             </div>
           </div>
           <div id="interestForm" className={styles.section}></div>
+          <FAQSection />
 
           {/* ================== 방문예약 섹션 (PC) ================== */}
           <div className={styles.pcVisitContainer}>
@@ -657,7 +659,7 @@ const Main = () => {
           <div className={styles.container7}>
             <div className={styles.textBox}>
               <div className={styles.title}>
-                도안의 중심으로 사는
+                평택의 중심으로 사는
                 <br />
                 <span>최고의 브랜드 아파트</span>
               </div>
@@ -739,7 +741,8 @@ const Main = () => {
               </Link>
             </div>
           </div> */}
-          <MobileNewsSection newsList={newsLists} />
+          {/* <MobileNewsSection newsList={newsLists} /> */}
+          <FAQSection />
 
             {/* 모바일 방문예약 섹션 */}
             <div className={styles.mobileVisitContainer}>

@@ -1,0 +1,401 @@
+/* ================================
+   FAQ 전체 섹션 PC 프리미엄 개선버전
+================================ */
+.faqSection {
+    width: 100%;
+    min-height: 100vh;
+    background:
+      radial-gradient(circle at top left, rgba(184, 140, 82, 0.1), transparent 32vw),
+      linear-gradient(180deg, #fbfaf7 0%, #f4f6f8 100%);
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 10vw 0 1vw;
+    font-family: 'Pretendard-Regular';
+  }
+  
+  /* PC 전체 레이아웃 */
+  .faqInner {
+    width: 90vw;
+    display: grid;
+    grid-template-columns: 16vw 1fr;
+    gap: 4vw;
+    align-items: flex-start;
+  }
+  
+  /* PC 왼쪽 타이틀 */
+  .faqTitleBox {
+    position: sticky;
+    top: 15vw;
+    padding-top: 0.5vw;
+    color: #222;
+  
+    .titleLine {
+      width: 10vw;
+      height: 0.1vw;
+      background: #b88c52;
+      margin-bottom: 0.8vw;
+      position: relative;
+  
+      &::after {
+        content: "";
+        position: absolute;
+        left: 4.8vw;
+        top: 0;
+        width: 3vw;
+        height: 1px;
+        background: rgba(184, 140, 82, 0.35);
+      }
+    }
+  
+    h2 {
+      font-size: 2vw;
+      font-weight: 500;
+      margin: 0;
+      letter-spacing: 0.06em;
+      color: #01496f;
+    }
+  
+    p {
+      margin-top: 2.4vw;
+      font-size: 1vw;
+      line-height: 1.7;
+      color: #555;
+      word-break: keep-all;
+    }
+  
+    span {
+      display: inline-block;
+      margin-top: 1vw;
+      padding-bottom: 0.3vw;
+      font-size: 0.9vw;
+      color: #333;
+      border-bottom: 0.1vw solid #b88c52;
+    }
+  }
+  
+  /* PC FAQ 리스트 */
+  .faqList {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 0.3vw;
+  }
+  
+  /* PC FAQ 카드 */
+  .faqItem {
+    position: relative;
+    background: rgba(255, 255, 255, 0.94);
+    border: 1px solid rgba(1, 73, 111, 0.08);
+    border-radius: 0.8vw;
+    box-shadow: 0 0.5vw 1.4vw rgba(16, 31, 48, 0.045);
+    overflow: hidden;
+    transition: all 0.3s ease;
+  }
+  
+  /* PC 카드 왼쪽 골드 포인트 */
+  .faqItem::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 1.1vw;
+    width: 0.25vw;
+    height: 1.8vw;
+    border-radius: 0 1vw 1vw 0;
+    background: #b88c52;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .faqItem.active {
+    border-color: rgba(184, 140, 82, 0.35);
+    box-shadow: 0 0.8vw 2vw rgba(1, 73, 111, 0.1);
+  }
+  
+  .faqItem.active::before {
+    opacity: 1;
+  }
+  
+  /* PC 질문 버튼 */
+  .questionButton {
+    width: 100%;
+    min-height: 3vw;
+    border: 0;
+    background: transparent;
+    padding: 0 1vw 0 1vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    text-align: left;
+  }
+  
+  /* PC 질문 텍스트 */
+  .questionText {
+    font-size: 0.8vw;
+    font-weight: 700;
+    color: #052b5f;
+    line-height: 1.45;
+    letter-spacing: -0.02em;
+  
+    strong {
+      margin-right: 0.35vw;
+      color: #b88c52;
+      font-weight: 800;
+    }
+  }
+  
+  /* PC + / - 아이콘 */
+  .icon {
+    width: 2vw;
+    height: 2vw;
+    border-radius: 50%;
+    background: #f4f0e8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 auto;
+    font-size: 1.15vw;
+    font-weight: 400;
+    color: #052b5f;
+    margin-left: 1vw;
+    transition: all 0.3s ease;
+  }
+  
+  .faqItem.active .icon {
+    background: #052b5f;
+    color: #fff;
+    transform: rotate(180deg);
+  }
+  
+  /* PC 답변 접힘 영역 */
+  .answerWrap {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.35s ease;
+  }
+  
+  /* 답변 길어도 안 잘리게 */
+  .faqItem.active .answerWrap {
+    max-height: 30vw;
+  }
+  
+  /* PC 답변 박스 */
+  .answerBox {
+    margin: 0 1.45vw 1.25vw 1.65vw;
+    padding: 1.1vw 0 0;
+    border-top: 1px solid rgba(1, 73, 111, 0.08);
+    display: flex;
+    gap: 0.55vw;
+  
+    strong {
+      flex: 0 0 auto;
+      font-size: 0.86vw;
+      color: #b88c52;
+      line-height: 1.8;
+      font-weight: 800;
+    }
+  
+    p {
+      margin: 0;
+      font-size: 0.86vw;
+      font-weight: 400;
+      color: #5d5d5d;
+      line-height: 1.8;
+      word-break: keep-all;
+      letter-spacing: -0.02em;
+    }
+  }
+/* ================================
+   모바일 반응형 - 프리미엄 스타일
+   - 900px 이하에서 적용
+================================ */
+@media (max-width: 900px) {
+    /* 모바일 FAQ 전체 섹션 */
+    .faqSection {
+      min-height: auto;
+      padding: 8vw 0 8vw;
+      background:
+        radial-gradient(circle at top left, rgba(184, 140, 82, 0.12), transparent 34vw),
+        linear-gradient(180deg, #fbfaf7 0%, #f4f6f8 100%);
+    }
+  
+    /* 모바일 내부 전체 폭 */
+    .faqInner {
+      width: 90vw;
+      display: flex;
+      flex-direction: column;
+      gap: 4vw;
+    }
+  
+    /* 모바일 타이틀 영역 */
+    .faqTitleBox {
+      width: 100%;
+      text-align: center;
+      padding-top: 0;
+  
+      /* 상단 장식 라인 */
+      .titleLine {
+        width: 25vw;
+        height: 0.4vw;
+        background: #b88c52;
+        margin: 0 auto 2.5vw;
+        position: relative;
+  
+        &::before,
+        &::after {
+          content: "";
+          position: absolute;
+          top: 0;
+          width: 5vw;
+          height: 1px;
+          background: rgba(184, 140, 82, 0.35);
+        }
+  
+        &::before {
+          right: 16vw;
+        }
+  
+        &::after {
+          left: 16vw;
+        }
+      }
+  
+      /* Q & A 제목 */
+      h2 {
+        font-size: 5vw;
+        font-weight: 500;
+        letter-spacing: 0.08em;
+        color: #1f1f28;
+        margin: 0;
+      }
+  
+      /* 서브 문구 */
+      p {
+        margin-top: 4vw;
+        font-size: 3.4vw;
+        line-height: 1.6;
+        color: #5f5f5f;
+        font-weight: 400;
+      }
+  
+      span {
+        display: none;
+      }
+    }
+  
+    /* 질문 카드 리스트 */
+    .faqList {
+      gap: 2vw;
+    }
+  
+    /* 모바일 Q&A 카드 */
+    .faqItem {
+      position: relative;
+      border-radius: 2vw;
+      background: rgba(255, 255, 255, 0.92);
+      border: 1px solid rgba(1, 73, 111, 0.08);
+      box-shadow: 0 2vw 6vw rgba(16, 31, 48, 0.07);
+      backdrop-filter: blur(8px);
+      overflow: hidden;
+    }
+  
+    /* 카드 왼쪽 포인트 라인 */
+    .faqItem::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 2vw;
+      width: 0.9vw;
+      height: 7vw;
+      border-radius: 0 2vw 2vw 0;
+      background: #b88c52;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+  
+    /* 열렸을 때 카드 강조 */
+    .faqItem.active {
+      border-color: rgba(184, 140, 82, 0.35);
+      box-shadow: 0 2.5vw 7vw rgba(1, 73, 111, 0.11);
+    }
+  
+    .faqItem.active::before {
+      opacity: 1;
+    }
+  
+    /* 질문 버튼 */
+    .questionButton {
+      min-height: 14vw;
+      padding: 0 5vw 0 6vw;
+      background: transparent;
+    }
+  
+    /* 질문 텍스트 */
+    .questionText {
+      font-size: 3vw;
+      line-height: 1.48;
+      font-weight: 700;
+      color: #01496f;
+      word-break: keep-all;
+      letter-spacing: -0.03em;
+  
+      strong {
+        display: inline-block;
+        margin-right: 1.2vw;
+        color: #b88c52;
+        font-weight: 800;
+      }
+    }
+  
+    /* + / - 아이콘 */
+    .icon {
+      width: 7vw;
+      height: 7vw;
+      border-radius: 50%;
+      background: #f4f0e8;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 4vw;
+      font-weight: 300;
+      color: #01496f;
+      margin-left: 3vw;
+      transition: all 0.3s ease;
+    }
+  
+    .faqItem.active .icon {
+      background: #01496f;
+      color: #fff;
+      transform: rotate(180deg);
+    }
+  
+    /* 답변 열림 높이 */
+    .faqItem.active .answerWrap {
+      max-height: 95vw;
+    }
+  
+    /* 답변 박스 */
+    .answerBox {
+      margin: 0 5vw 5.5vw 6vw;
+      padding: 4.5vw 0 0;
+      border-top: 1px solid rgba(1, 73, 111, 0.08);
+      gap: 2.2vw;
+  
+      strong {
+        flex: 0 0 auto;
+        font-size: 3.5vw;
+        line-height: 1.8;
+        color: #b88c52;
+        font-weight: 800;
+      }
+  
+      p {
+        font-size: 2.5vw;
+        line-height: 1.85;
+        color: #5d5d5d;
+        text-align: left;
+        letter-spacing: -0.03em;
+      }
+    }
+  }
